@@ -1,0 +1,1 @@
+completed exercises from https://pynative.com/python-object-oriented-programming-oop-exercise/ 
